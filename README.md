@@ -14,3 +14,7 @@ We introduce in total 5 steps
 4. Estimate Trends
 5. Build a trading strategy
 6. Plot Returns
+
+
+
+The code also incorporates knowledge to facilitate the development of understanding in both parametric and non-parametric models, as well as comprehension of how kernel regression operates.
